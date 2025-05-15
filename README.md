@@ -7,7 +7,7 @@ The project is currently in its very early stages.
 
 ABK is built on the XGS (Exient Game Engine), which presents significant obstacles to modding.
 
-<img src="./ReadmeImages/ExientLogoNew.png" width="50%">
+<img src="./ReadmeImages/ExientLogo2.png" width="50%">
 
 Currently, it is not possible to add new content, such as UI elements, characters, or karts.
 This limitation leaves the game in a state where modding is minimal, restricted to value tweaks and texture changes. As a result, the game’s appeal diminishes over time, potentially causing it to fall into obscurity.
